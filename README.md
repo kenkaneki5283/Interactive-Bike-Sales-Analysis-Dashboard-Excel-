@@ -43,4 +43,5 @@ e) Demographic Granularity: The interactive dashboard allows for deep dives into
 ## 5) Conclusion  
 This project successfully demonstrates the power of Excel for end-to-end data analysis, from raw data cleaning to the creation of an interactive dashboard. The resulting dashboard provides clear insights into bike sales patterns and customer demographics, making it a valuable tool for understanding key market segments. The project serves as a practical example of how Excel can be used to build a robust and interactive solution for business reporting, suitable for inclusion in a professional portfolio.
 
-## 6) Screenshot   
+## 6) Screenshot    
+https://github.com/kenkaneki5283/Interactive-Bike-Sales-Analysis-Dashboard-Excel-/blob/main/Interactive%20Bike%20Sales%20Analysis%20Dashboard%20(Excel).png
